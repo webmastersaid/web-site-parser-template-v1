@@ -1,11 +1,11 @@
 # Web-site parcer v 1.0
 
-##pip list
+## pip list
 ---
-`pip install beautifulsoup4
-pip install requests-html`
+1. `pip install beautifulsoup4`
+2. `pip install requests-html`
 
-##run
+## run
 ---
 `python main.py`
 or
