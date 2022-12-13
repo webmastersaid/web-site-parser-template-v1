@@ -1,4 +1,4 @@
-# Web-site parcer v 1.0
+# Web-site parser v 1.0
 
 ## pip list
 
